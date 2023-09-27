@@ -1,4 +1,6 @@
-{
-    "editor.fontSize": 38,
-    "terminal.integrated.fontSize": 60
-}
+// {
+//     "editor.fontSize": 38,
+//     "terminal.integrated.fontSize": 60
+// }
+
+//commented out to restore default editor font size.
