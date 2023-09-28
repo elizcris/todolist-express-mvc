@@ -15,4 +15,5 @@ const connectDB = async () => {
   }
 }
 
+//export connectDB which is a function that enables us to connect to the database using mongoose
 module.exports = connectDB
