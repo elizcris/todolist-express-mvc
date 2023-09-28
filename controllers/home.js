@@ -3,3 +3,4 @@ module.exports = {
         res.render('index.ejs')
     }
 }
+//getIndex method that renders out the index.ejs
